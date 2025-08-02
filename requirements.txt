@@ -1,0 +1,17 @@
+Using GitHub Gists
+GitHub Gists are perfect for sharing the code as a single file. Here is a quick guide on how to do it:
+
+Go to Gist: Navigate to https://gist.github.com/ and sign in to your GitHub account if you haven't already.
+
+Add a Description: In the "Gist description..." field, write a brief description of the code, for example, "React URL Shortener with Firestore."
+
+Name the File: In the "Filename including extension..." field, enter App.jsx. Using the .jsx extension ensures that GitHub correctly highlights the React syntax.
+
+Paste the Code: Copy the entire code from the immersive document and paste it into the main text area below the filename.
+
+Create the Gist: Click the "Create secret gist" or "Create public gist" button. A secret gist is not searchable but can be accessed by anyone with the link, while a public gist is searchable.
+
+Option 2: Creating a Full Repository
+For a larger project, you would create a full repository. This is useful for version control, collaboration, and managing multiple files. You can follow these steps to create a new repository and upload your files via the web interface or the command line.
+
+This video provides a great overview of how to get started with creating your first GitHub repository.
